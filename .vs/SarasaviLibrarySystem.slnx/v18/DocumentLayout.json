@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umind\\Desktop\\SarasaviLibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57192DFC-5274-40D2-9345-11961C3D932F}|SarasaviLibrarySystem.csproj|c:\\users\\umind\\desktop\\sarasavilibrarysystem\\frmbookreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57192DFC-5274-40D2-9345-11961C3D932F}|SarasaviLibrarySystem.csproj|solutionrelative:frmbookreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBookReg.cs",
+              "DocumentMoniker": "C:\\Users\\umind\\Desktop\\SarasaviLibrarySystem\\frmBookReg.cs",
+              "RelativeDocumentMoniker": "frmBookReg.cs",
+              "ToolTip": "C:\\Users\\umind\\Desktop\\SarasaviLibrarySystem\\frmBookReg.cs",
+              "RelativeToolTip": "frmBookReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:46:38.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

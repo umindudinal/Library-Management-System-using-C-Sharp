@@ -1,0 +1,17 @@
+C:\Users\umind\Desktop\SarasaviLibrarySystem\bin\Debug\SarasaviLibrarySystem.exe.config
+C:\Users\umind\Desktop\SarasaviLibrarySystem\bin\Debug\SarasaviLibrarySystem.exe
+C:\Users\umind\Desktop\SarasaviLibrarySystem\bin\Debug\SarasaviLibrarySystem.pdb
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.csproj.AssemblyReference.cache
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.Properties.Resources.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.csproj.GenerateResource.cache
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.exe
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.pdb
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmLogin.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmMain.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmBookReg.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmLoan.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmReservation.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmReturn.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmUserReg.resources
+C:\Users\umind\Desktop\SarasaviLibrarySystem\obj\Debug\SarasaviLibrarySystem.frmInquiry.resources
